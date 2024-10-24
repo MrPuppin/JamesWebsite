@@ -37,7 +37,7 @@ export function Resume() {
             <section className={styles.resumesection}>
               <h3>Summary</h3>
               <p>
-                I'm a driven developer based in Toronto, driven by a love for
+                I'm a driven developer based in Toronto, with a love for
                 technology and problem-solving. Over the past few years, I’ve
                 developed custom solutions for Dynamics 365 (on-premises) using
                 C# and JavaScript, enhancing user experiences and system

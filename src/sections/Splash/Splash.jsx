@@ -49,7 +49,7 @@ export function Splash() {
             </a>
           </span>
           <p className={styles.description}>
-            I'm James and this is my personal/portfolio/for fun website.
+            I'm James and this is my personal/portfolio website.
           </p>
         </div>
       </section>
