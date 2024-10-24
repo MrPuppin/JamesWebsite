@@ -6,11 +6,11 @@ export function Navbar() {
       <Link to="/resume">
         <button>Resume</button>
       </Link>
-      <a id="spacer">|</a>
+      <span className="spacer">|</span>
       <Link to="/">
         <button>Home</button>
       </Link>
-      <a id="spacer">|</a>
+      <span className="spacer">|</span>
       <Link to="/projects">
         <button>Projects</button>
       </Link>

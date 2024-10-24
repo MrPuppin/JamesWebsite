@@ -18,6 +18,11 @@ body {
   position: static;
 }
 
+.spacer {
+  margin: 0 10px;
+  cursor: default;
+}
+
 h1,
 h2,
 h3,
@@ -53,12 +58,6 @@ p {
   font-weight: 300;
 }
 
-a {
-  width: 50px;
-  align-self: center;
-  margin: 10px 10px;
-}
-
 #spacer {
   margin: 30px;
 }
@@ -67,10 +66,10 @@ button {
   cursor: pointer;
   border: none;
   background-color: transparent;
-  width: 120px;
+  width: 80px;
   height: 50px;
   transition: all 300ms;
-  position: relative;
+  position: static;
   font-size: medium;
 }
 
@@ -86,7 +85,6 @@ button::after {
 }
 
 button:hover::after {
-  letter-spacing: 1px;
   transform: scaleX(1);
 }
 
