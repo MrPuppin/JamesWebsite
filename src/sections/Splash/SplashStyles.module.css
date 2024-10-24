@@ -1,0 +1,45 @@
+.container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  gap: 20px;
+  text-align: center;
+  height: 85vh;
+  min-height: 600px;
+
+  .splash {
+    max-width: 300px;
+    border: 0;
+    border-radius: 100%;
+  }
+
+  span {
+    display: flex;
+    gap: 25px;
+    justify-content: center;
+
+    a {
+      margin: 10px;
+
+      img {
+        width: 50px;
+      }
+    }
+  }
+
+  a {
+    width: auto;
+    align-self: center;
+  }
+}
+
+.description {
+  max-width: 50ch;
+  align-self: center;
+}
+
+.info {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}
