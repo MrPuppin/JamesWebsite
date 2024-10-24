@@ -1,7 +1,7 @@
 import { Routes, Route, useLocation } from "react-router-dom";
-import { Splash } from "../sections/Splash/Splash";
-import { Resume } from "../sections/Resume/Resume";
-import { Projects } from "../sections/Projects/Projects";
+import { Splash } from "../sections/Splash/Splash.jsx";
+import { Resume } from "../sections/Resume/Resume.jsx";
+import { Projects } from "../sections/Projects/Projects.jsx";
 
 import { AnimatePresence } from "framer-motion";
 
