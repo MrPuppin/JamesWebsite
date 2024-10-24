@@ -70,8 +70,11 @@ After pushing to the main branch, Cloudflare Pages will automatically deploy the
 
 To deploy in the same way:
 
-1. Build the project with `npm run build`
-2. Push your changes to your GitHub repository and cloudflare pages will pick automatically deploy assuming automatic deployment is enabled.
+1. Update the `package.json` homepage attribute to: `"homepage" : "https://{cloudflare page name}.pages.dev"`
+2. Update `vite.config.js` base attribute to: `base: "https://{cloudflare page name}.pages.dev"`
+3. Build the project with `npm run build`
+4. Push your changes to your GitHub repository and cloudflare pages will pick automatically deploy assuming automatic deployment is enabled.
+5. Optional: Configure a custom domain within cloudflare pages.
 
 ## License
 
