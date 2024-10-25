@@ -12,7 +12,7 @@ This is the source code for my personal resume/portfolio website, built using Re
 - [License](#license)
 
 ## Overview
-This is a fully responsive, modern resume/portfolio website showcasing my professional experience, skills, and projects (to come). The website was created to give a brief yet detailed overview of my qualifications, with smooth animations and intuitive navigation.
+This is a fully responsive, modern resume/portfolio website showcasing my professional experience, skills, and projects (to come). The website was created to give a brief yet detailed overview of my qualifications, with smooth animations, intuitive navigation, and automated deployment.
 
 ## Features
 - **Responsive Design**: Fully responsive and works across all devices (mobile, tablet, desktop).
