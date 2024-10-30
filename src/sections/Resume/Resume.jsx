@@ -122,7 +122,7 @@ export function Resume() {
               </div>
               <div className={styles.job}>
                 <div className={styles.titles}>
-                  <h4>Programmer (Co-Op)</h4>
+                  <h4>Programmer (Co-op)</h4>
                   <p className={styles.jobduration}>
                     May 2020 - September 2021
                   </p>
@@ -190,7 +190,7 @@ export function Resume() {
                 <li className={styles.skillset}>
                   <h4>Languages</h4>
                   <br></br>
-                  <p>English, French Portuguese</p>
+                  <p>English, French, Portuguese</p>
                 </li>
               </ul>
             </section>
@@ -210,7 +210,7 @@ export function Resume() {
                   2019 Vice President of PHI Society
                   <br></br>
                   Relevant courses include: Data structures I & II, Algorithms,
-                  Database, OS, OOP, Software Engineering,
+                  Database, OS, OOP, Software Engineering
                 </p>
               </div>
             </section>
